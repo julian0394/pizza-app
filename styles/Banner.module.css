@@ -1,0 +1,9 @@
+.container {
+  height: calc(100vh - 100px);
+
+}
+
+.fotito {
+  display: none !important;
+  margin-top: 20rem;
+}

@@ -10,7 +10,6 @@ const Home = () => {
         <meta name="description" content="The original flavor of New York pizza style!" />
         <link rel="icon" href="/favicon.png" />
       </Head>
-      homepage
     </div> 
   )
 }
